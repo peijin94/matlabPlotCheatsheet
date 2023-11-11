@@ -1,5 +1,5 @@
 % make the cheatsheet for matlab
-% by : Peijin
+% by : sanket raj
 clear;
 clc;
 close all
